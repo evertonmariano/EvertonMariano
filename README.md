@@ -1,7 +1,5 @@
 # Olá, sou o Everton Mariano, um entusiasta na área de Desenvolvimento Web.
 
-<p>Estudando sobre:</p>
-
 <!-- Linguagens -->
 <div style="display: inline_block"><br />
   <a href="https://github.com/EvertonMariano">
