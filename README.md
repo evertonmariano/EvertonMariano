@@ -17,8 +17,8 @@
 <!-- Gitstats -->
 <div>
   <a href="https://github.com/EvertonMariano">
-    <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api?username=EvertonMariano&hide_title=true&show_icons=true&theme=tokyonight" />
-    <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonMariano&layout=compact&theme=tokyonight" />
+    <img align="center" height="135em" src="https://github-readme-stats.vercel.app/api?username=EvertonMariano&hide_title=true&show_icons=true&theme=tokyonight" />
+    <img align="center" height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonMariano&layout=compact&theme=tokyonight" />
   </a>
 </div>
  
