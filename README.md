@@ -1,4 +1,4 @@
-# Olá, sou o Everton Mariano, entusiasta em Desenvolvimento
+# Olá, sou o Everton Mariano, um entusiasta na área de Desenvolvimento Web.
 
 <p>Estudando sobre:</p>
 
