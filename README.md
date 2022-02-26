@@ -24,8 +24,8 @@
 <h3>Resumo de atividades:</h3>
 <div align="center">
   <a href="https://github.com/EvertonMariano">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EvertonMariano&hide_title=true&show_icons=true&theme=tokyonight"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonMariano&layout=compact&theme=tokyonight"/>
+    <img height="135em" src="https://github-readme-stats.vercel.app/api?username=EvertonMariano&hide_title=true&show_icons=true&theme=tokyonight"/>
+    <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonMariano&layout=compact&theme=tokyonight"/>
   </a>
 </div>
  
@@ -35,16 +35,13 @@
 <p></p><br>
 <h3>Outras redes:</h3>
 <div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/everton-mariano-3aa74848"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  <a href="https://discord.gg/cz3qYzjGtS" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  </a>  
-</div>
+  <a href="https://www.linkedin.com/in/everton-mariano-3aa74848"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/cz3qYzjGtS" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+</div><br><br>
 
-##
-
-<!-- Contributions -->  
-<p></p><br>
-<h3>My Contributions:</h3>
+<h3>Minhas contribuições:</h3>
 <div align="center">
+
   ![Snake animation](https://github.com/evertonmariano/evertonmariano/blob/output/github-contribution-grid-snake.svg)
+
 </div>
