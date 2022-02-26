@@ -1,6 +1,6 @@
 ## Olá, sou Everton Mariano, um entusiasta na área de Desenvolvimento Web.
 
-<p>Estudando sobre:</p>
+<h1>Estudando sobre:</h1>
 
 <!-- Linguagens -->
 <div style="display: inline_block"><br>
@@ -11,6 +11,7 @@
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
     <img align="center" alt="Vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  </a>
 </div>
 
 ##
@@ -20,12 +21,13 @@
   <a href="https://github.com/EvertonMariano">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvertonMariano&hide_title=true&show_icons=true&theme=tokyonight"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonMariano&layout=compact&theme=tokyonight"/>
+  </a>
 </div>
  
 ##
   
 <!-- Badges -->  
 <div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/everton-mariano-3aa74848"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  ![Snake animation](https://github.com/EvertonMariano/EvertonMariano/blob/output/github-contribution-grid-snake.svg)
+  <a href="https://www.linkedin.com/in/everton-mariano-3aa74848"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
 </div>
