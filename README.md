@@ -1,6 +1,6 @@
 ## Olá, sou Everton Mariano, um entusiasta na área de Desenvolvimento Web.
 
-<h1>Estudando sobre:</h1>
+<h3>Estudando sobre:</h3>
 
 <!-- Linguagens -->
 <div style="display: inline_block"><br>
@@ -19,8 +19,8 @@
 <!-- Gitstats -->
 <div align="center">
   <a href="https://github.com/EvertonMariano">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvertonMariano&hide_title=true&show_icons=true&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonMariano&layout=compact&theme=tokyonight"/>
+    <img height="135em" src="https://github-readme-stats.vercel.app/api?username=EvertonMariano&hide_title=true&show_icons=true&theme=tokyonight"/>
+    <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonMariano&layout=compact&theme=tokyonight"/>
   </a>
 </div>
  
