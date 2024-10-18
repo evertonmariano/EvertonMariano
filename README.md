@@ -1,7 +1,7 @@
 ## Olá! Sou Everton Mariano, um entusiasta na área de Desenvolvimento Web.
 
-- 👨‍💻 Atualmente trabalho como Analista de Suporte de TI, numa Empresa de Tecnologia em Meios de Pagamento
-- 📝 Estudando sobre Desenvolvimento WEB e Linguagens de Programação
+- 👨‍💻 Atualmente trabalho como Analista de Suporte de TI, numa Empresa de Tecnologia VoIP
+- 📝 Estudando BI e afinidades
 - 📧 Contate-me através dos e-mails: emnunes_pb@hotmail.com / emnunespb@gmail.com
 - 😀 Pronouns: Ele/Dele
 
