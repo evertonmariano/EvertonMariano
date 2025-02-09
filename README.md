@@ -1,7 +1,7 @@
-## Olá! Sou Everton Mariano, um entusiasta em Tecnologia da Informação.
+### Olá! Sou Everton Mariano, um entusiasta em Tecnologia.
 
-- 👨‍💻 Atualmente trabalho como Analista de Suporte de TI, numa Empresa de Tecnologia VoIP
-- 📝 Estudando BI e Linguagens de programação afins
+- 👨‍💻 Atualmente estou como Analista de Suporte de TI, numa Empresa de Tecnologia VoIP
+- 📝 Estudando QA, Linguagens de programação e afins
 - 📧 Contate-me através dos e-mails: emnunes_pb@hotmail.com / emnunespb@gmail.com
 - 😀 Pronouns: Ele/Dele
 
