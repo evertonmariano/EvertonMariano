@@ -1,7 +1,7 @@
 ### Olá! Sou Everton Mariano, um entusiasta em Tecnologia.
 
 - 👨‍💻 Atualmente estou Analista de Suporte de TI, numa Empresa de Tecnologia VoIP
-- 📝 Estudando QA, Linguagens de programação e afins
+- 📝 Cursando Pós de QA + RPA na UNIESP/JP, Linguagens de programação e afins
 - 📧 Contate-me através dos e-mails: emnunes_pb@hotmail.com / emnunespb@gmail.com
 - 😀 Pronouns: Ele/Dele
 
