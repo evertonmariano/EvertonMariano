@@ -46,7 +46,7 @@
 ## 🐍 MINHAS CONTRIBUIÇÕES
 <div align="center">
 
-  ![Snake animation](https://github.com/evertonmariano/evertonmariano/raw/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/evertonmariano/evertonmariano/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 <p></p><br>
