@@ -1,7 +1,7 @@
-### Olá! Sou Everton Mariano, um entusiasta em Tecnologia.
+### Olá! Sou Everton Mariano. Profissional de TI com experiência sólida em Suporte/Operações/Sustentação/Implantação.
 
-- 👨‍💻 Atualmente estou Analista de Suporte de TI, numa Empresa de Tecnologia VoIP
-- 📝 Cursando Pós de QA + RPA na UNIESP/JP, Linguagens de programação e afins
+- 👨‍💻 Atualmente pós-graduando em QA e RPA, pela UNIESP/PB
+- 📝 Estudando Linguagens de programação (Java, Python, JavaScript e afins)
 - 📧 Contate-me através dos e-mails: emnunes_pb@hotmail.com / emnunespb@gmail.com
 - 😀 Pronouns: Ele/Dele
 
@@ -12,6 +12,7 @@
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">  
+  <img align="center" alt="java" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
